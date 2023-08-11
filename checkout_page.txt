@@ -1,0 +1,4 @@
+Enter card number:
+Enter CVC:
+ _____________
+| Checkout order |
