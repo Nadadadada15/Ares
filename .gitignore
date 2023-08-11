@@ -1,0 +1,4 @@
+*.log
+bin/home_page.class
+bin/invalid_page.class
+*class
